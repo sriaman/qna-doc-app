@@ -1,0 +1,5 @@
+rootProject.name = 'qnaapplication'
+include 'document'
+include 'qna'
+include 'auth'
+include 'common'
